@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: royalblue;
     margin: 20px;
 }
 
@@ -37,11 +38,12 @@ input[type="submit"] {
 }
 
 h1 {
-    color:red ;
+    color:blue ;
 }
 
 table {
-    border-collapse: collapse;
+  background-color: yellow;
+  border-collapse: collapse;
     width: 100%;
 }
 
